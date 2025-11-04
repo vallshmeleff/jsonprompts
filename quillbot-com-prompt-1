@@ -1,0 +1,26 @@
+{
+  "task": "Prepare a learning exercise using the Oflameron WORDS method for learning English.",
+  "topic": "Spending a whole day in Berlin exploring the city",
+  "steps": [
+    {
+      "step": 1,
+      "description": "Transform the words into one-dimensional matrices (rows) whose elements are the letters of the original words (i.e., divide the word into letters). This will be the original matrix."
+    },
+    {
+      "step": 2,
+      "description": "Randomly reorder the elements of each matrix (use only one sorting option for each word). This will be the target matrix."
+    },
+    {
+      "step": 3,
+      "description": "Create a special word from the resorted one-dimensional matrix by sequentially selecting elements from the resorted matrix and writing them in a row without spaces to form the special word."
+    },
+    {
+      "step": 4,
+      "description": "Remember the original English words and their corresponding special words for future use, and calculate and remember the number of characters in them."
+    }
+  ],
+  "output": {
+    "instruction": "Write an exercise in English on the topic 'Spending a whole day in Berlin exploring the city.' Use the original English words in the text, but replace them with the corresponding special words you've prepared.",
+    "display": "Only display the final result — the finished text in English."
+  }
+}

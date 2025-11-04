@@ -1,0 +1,13 @@
+Let's prepare a training exercise using the Oflameron WORDS method for learning English. To do this, we'll select 15 English words on the topic "Spending a whole day in Berlin exploring the city" and process each of them using the following algorithm:
+
+1. Transform the words into one-dimensional matrices (rows) whose elements are the letters of the original words (i.e., divide the word into letters). This will be the original matrix.
+
+2. Randomly re-sort the elements of each matrix (use only one sorting option for each word). This will be the target matrix.
+
+3. Create a special word (special word) from the re-sorted one-dimensional matrix as follows: sequentially select elements from the re-sorted matrix and write them in a row without spaces to form the special word.
+
+4. Remember the original English words and their corresponding special words for future use, and calculate and remember the number of characters in them.
+
+Write an exercise in English on the topic "Spending a whole day in Berlin exploring the city." Use the original English words in the text, but replace them with the corresponding specialized words you've prepared.
+
+Display only the final result—the completed text in English.

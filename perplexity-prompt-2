@@ -1,0 +1,14 @@
+json
+{
+  "exercise_topic": "A Whole Day Touring Berlin",
+  "words_count": 15,
+  "algorithm_steps": [
+    "Transform each English word into a one-dimensional matrix (array) of letters, splitting the word into individual letters.",
+    "Randomly reorder the elements (letters) of each matrix once, creating a target matrix.",
+    "From the reordered matrix, create a special word by concatenating its letters without spaces.",
+    "Record the original English words, their special words, and the number of characters in each."
+  ],
+  "instructions": "Create an English text on the topic 'A Whole Day Touring Berlin' using the original English words replaced by their corresponding special words.",
+  "output": "Only display the final English text with special words substituted.",
+  "credit": "by Valery Shmelev"
+}

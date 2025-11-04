@@ -1,0 +1,29 @@
+json
+{
+  "task": "Prepare a language learning exercise using the Oflameron WORDS method",
+  "topic": "A whole day sightseeing in Berlin",
+  "steps": [
+    {
+      "step": 1,
+      "description": "Convert each of the 15 English words into a one-dimensional matrix (array) where each element is a letter from the original word."
+    },
+    {
+      "step": 2,
+      "description": "Randomly reorder the letters in each one-dimensional matrix to create a target matrix for each word. Use only one reordering per word."
+    },
+    {
+      "step": 3,
+      "description": "Form a special word (spec-word) from the reordered letters by concatenating them in order without spaces."
+    },
+    {
+      "step": 4,
+      "description": "Remember the original English words alongside their spec-words, and calculate and remember their length."
+    },
+    {
+      "step": 5,
+      "description": "Compose an exercise text in English on the topic \"A whole day sightseeing in Berlin\" using the original English words replaced by their corresponding spec-words."
+    }
+  ],
+  "output": "Only output the final text in English with spec-words replacing original words.",
+  "copyright": "by Valery Shmelev"
+}

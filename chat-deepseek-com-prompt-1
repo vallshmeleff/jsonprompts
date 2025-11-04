@@ -1,0 +1,85 @@
+   json
+
+{
+
+  "request_type": "educational_exercise_creation",
+
+  "methodology": "Oflameron WORDS",
+
+  "language": "english",
+
+  "topic": "A whole day in Berlin exploring the city",
+
+  "steps": [
+
+    {
+
+      "step_number": 1,
+
+      "description": "Select 15 English words on the topic 'A whole day in Berlin exploring the city'"
+
+    },
+
+    {
+
+      "step_number": 2,
+
+      "description": "Convert each word into a one-dimensional matrix (string) where elements are letters from the original words"
+
+    },
+
+    {
+
+      "step_number": 3,
+
+      "description": "Randomly reshuffle elements of each matrix (using only one sorting variant per word)"
+
+    },
+
+    {
+
+      "step_number": 4,
+
+      "description": "Create special words from reshuffled matrices by sequentially selecting elements and writing them consecutively without spaces"
+
+    },
+
+    {
+
+      "step_number": 5,
+
+      "description": "Remember original English words and corresponding special words along with their character counts"
+
+    },
+
+    {
+
+      "step_number": 6,
+
+      "description": "Compose exercise text in English on the topic using original words replaced with corresponding special words"
+
+    },
+
+    {
+
+      "step_number": 7,
+
+      "description": "Display only the final result - ready English text"
+
+    }
+
+  ],
+
+  "requirements": {
+
+    "word_count": 15,
+
+    "output_language": "english",
+
+    "final_output": "text_only"
+
+  },
+
+  "copyright": "(c) by Valery Shmelev"
+
+}

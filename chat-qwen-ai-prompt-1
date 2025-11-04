@@ -1,0 +1,37 @@
+{
+
+  "request": {
+
+    "purpose": "Create an English learning exercise using the Oflameron WORDS methodology",
+
+    "topic": "A whole day in Berlin exploring the city",
+
+    "word_count": 15,
+
+    "algorithm_steps": [
+
+      "Convert each English word into a one-dimensional matrix (array) of its letters — this is the source matrix.",
+
+      "Randomly shuffle the elements of each source matrix to create a target matrix (use only one shuffle variant per word).",
+
+      "Form a special word (spec-word) by concatenating all elements of the shuffled (target) matrix into a single string with no spaces.",
+
+      "Store the original English word, its spec-word, and their character counts for later use."
+
+    ],
+
+    "output_instructions": {
+
+      "task": "Compose an English-language exercise text on the topic 'A whole day in Berlin exploring the city'.",
+
+      "rule": "Use the original English words in the text, but replace each with its corresponding spec-word generated through the algorithm.",
+
+      "output_format": "Display only the final result — the complete English exercise text with spec-words substituted.",
+
+      "attribution": "(c) by Valery Shmelev"
+
+    }
+
+  }
+
+}

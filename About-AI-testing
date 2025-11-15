@@ -1,0 +1,11 @@
+About AI
+
+Oflameron WORDS is a method for effectively learning foreign languages ​​using AI. The method was developed by Valery Shmelev in 1994. With the development of AI, it has come to be used to generate learning exercises.
+The Oflameron WORDS method asks students to read a text in the target language. In the text, some words are replaced with special words (special words). In these words, all letters are randomly rearranged. The number of letters and the set of letters in the special words strictly correspond to the original word.
+
+The method proved a challenging test for many well-known AI systems. For example, perplexity.ai, giga.chat, chat, qwen.ai
+Errors in the formation of special words could not be eliminated after dozens of revisions of the query text.
+Moreover, over 90% of special words are formed correctly. Errors are detected in one or two transformations.
+At the same time, separate testing of the AI ​​for converting words into special words revealed no problems. The Oflameron WORDS methodology can be used to evaluate the "quality" of AI systems.
+
+Notes: Only free online versions of AI systems available to the author were used in the tests.
